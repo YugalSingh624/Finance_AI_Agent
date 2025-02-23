@@ -1,0 +1,6 @@
+.env
+simple_groq_agent.py
+tempCodeRunnerFile.py
+agents.db
+tmp
+__pycache__
